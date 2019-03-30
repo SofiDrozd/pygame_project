@@ -1,0 +1,24 @@
+{
+  "Table": [
+    {
+      "001": [
+        {
+          "Name": "Ignaty",
+          "Score": "100"
+        }
+      ],
+      "002": [
+        {
+          "Name": "Innokenty",
+          "Score": "50"
+        }
+      ],
+      "003": [
+        {
+          "Name": "Ippolit",
+          "Score": "45"
+        }
+      ]
+    }
+  ]
+}
